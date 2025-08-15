@@ -17,25 +17,15 @@ Aprendizado Continuado: O repositório será atualizado conforme vou aprendendo 
 
 🔧 Tecnologias Utilizadas
 
-Aqui, você pode listar as tecnologias e ferramentas que está utilizando para desenvolver seus projetos.
-
 Linguagem de Programação: Python
 
 Frameworks: Flask (para aplicações web), Django (futuramente, quando for aprender)
-
-Banco de Dados: SQLite (para projetos menores), PostgreSQL (para desafios mais avançados)
 
 Ferramentas de Desenvolvimento: Git, Visual Studio Code, PyCharm
 
 Outras Tecnologias: HTML, CSS (para criação de interfaces simples), APIs RESTful
 
 ⚙️ Projetos e Desafios
-
-Aqui você vai mostrar os projetos que já fez ou está trabalhando. A cada projeto novo, você pode adicionar uma descrição com o que aprendeu ou o objetivo do projeto. Também pode adicionar links para os projetos ou imagens dos mesmos.
-
-1. Calculadora Simples em Python
-
-Descrição: Um projeto simples para entender operações aritméticas básicas.
 
 Tecnologias: Python
 
@@ -45,19 +35,9 @@ O que aprendi: Como trabalhar com entrada de dados, estrutura condicional e fun�
 
 Descrição: Aplicação de gerenciamento de tarefas usando Python e SQLite.
 
-Tecnologias: Python, SQLite
+Tecnologias: Python
 
-O que aprendi: Como conectar um banco de dados ao Python e manipular dados em uma aplicação de console.
-
-3. API de Clima
-
-Descrição: Criar uma API simples que consome dados de clima usando uma API externa.
-
-Tecnologias: Python, Flask, Requests
-
-O que aprendi: Como fazer requisições HTTP e trabalhar com APIs externas.
-
-(Você pode adicionar mais projetos conforme for criando e aprendendo!)
+O que aprendi: Como conectar um banco de dados ao Python e manipular dados em uma aplicação de console
 
 📈 Minha Evolução
 
@@ -65,7 +45,7 @@ A ideia desse repositório é mostrar minha evolução como programadora, por is
 
 Estudar mais sobre Orientação a Objetos (OO) em Python e como isso pode melhorar a estrutura dos meus projetos.
 
-Aprender sobre Desenvolvimento Web usando Flask ou Django, criando sites e APIs completas.
+Aprender sobre Desenvolvimento Web
 
 Criar aplicações que usem front-end para se integrar com o Python (talvez criando um portfólio pessoal).
 
