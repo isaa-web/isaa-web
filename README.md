@@ -49,56 +49,7 @@ Aprender sobre Desenvolvimento Web
 
 Criar aplicações que usem front-end para se integrar com o Python (talvez criando um portfólio pessoal).
 
-📌 Como Executar os Projetos
-
-Aqui você pode colocar instruções de como rodar seus projetos, dependendo de cada tipo de aplicação (se for um script Python simples, ou se tiver alguma dependência específica).
-
-Exemplo de como rodar um projeto de console em Python:
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-
-Acesse o diretório do projeto:
-
-cd nome-do-repositorio
-
-
-Caso tenha dependências externas, instale com:
-
-pip install -r requirements.txt
-
-
-Execute o projeto:
-
-python nome_do_arquivo.py
-
-🛠 Como Contribuir
-
-Este repositório está aberto para colaboração! Se você quiser contribuir ou sugerir melhorias, sinta-se à vontade para abrir um pull request.
-
-Aqui estão algumas formas de contribuir:
-
-Fork o repositório.
-
-Crie uma nova branch (git checkout -b feature/nova-funcionalidade).
-
-Faça as alterações desejadas.
-
-Comite suas alterações (git commit -am 'Adiciona nova funcionalidade').
-
-Suba para o seu repositório (git push origin feature/nova-funcionalidade).
-
-Abra um pull request explicando as mudanças.
-
-📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
 🎓 O que estou Aprendendo?
-
-Se você quiser incluir algo mais pessoal e interativo, pode adicionar um espaço para falar sobre o que está aprendendo no momento ou suas metas de aprendizado:
 
 Neste momento, estou estudando estruturas de dados e algoritmos, buscando melhorar a eficiência do meu código e a resolução de problemas complexos.
 
